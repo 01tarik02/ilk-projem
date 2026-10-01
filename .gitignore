@@ -1,0 +1,13 @@
+# Python önbellek ve derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyw
+
+# macOS sistem dosyaları
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code ayarları
+.vscode/
